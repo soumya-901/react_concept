@@ -36,3 +36,7 @@ Linux, macOS (Bash)
 - npm start: `.env.development.local`, `.env.local`, `.env.development`, `.env`
 - npm run build: `.env.production.local`, `.env.local`, `.env.production` , `.env`
 - npm test: `.env.test.local`, `.env.test`, `.env` (note .env.local is missing)
+
+## Reference
+
+ [For more information](https://create-react-app.dev/docs/adding-custom-environment-variables/)
